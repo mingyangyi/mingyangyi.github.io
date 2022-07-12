@@ -38,7 +38,7 @@ __Mingyang Yi__
 38th Uncertainty in Artificial Intelligence (UAI 2022).
 
 [Out-of-distribution Generalization with Causal Invariant Transformations](https://arxiv.org/abs/2203.11528)  
-Ruoyu Wang*, __Mingyang Yi__*, Zhitang Chen, Shengyu Zhu  
+Ruoyu Wang\*, __Mingyang Yi__\*, Zhitang Chen, Shengyu Zhu  
 40th Computer Vision and Pattern Recognition (CVPR 2022)
 
 [Improved OOD Generalization via Adversarial Training and Pre-training](https://arxiv.org/abs/2105.11144)  
@@ -66,7 +66,7 @@ __Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma
 Preprint
 
 [Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)  
-Weiran Huang*, __Mingyang Yi*__, Xuyang Zhao*  
+Weiran Huang\*, __Mingyang Yi\*__, Xuyang Zhao\*  
 Preprint
 
 Awards
