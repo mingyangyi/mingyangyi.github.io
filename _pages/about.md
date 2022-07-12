@@ -10,7 +10,7 @@ redirect_from:
 
 I am a researcher at AI Theory Group of Huawei Noah's Ark Lab. I obtained my Ph.D. degree in Probability and Mathematical Statistics from Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2022, under the supervision of Prof. [Zhi-Ming Ma] (http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). Before that, I received my Bachelor's Degree in Math from Central China Normal University in 2017.
 
-__Hiring__ I am looking for research interns in Huawei Noah's Ark Lab with strong machine learning and mathematical background. Please drop me an [email] (yimingyang2@huawei.com) if you are interested in machine learning theory, optimization, or generative model. Base: Beijing.
+__Hiring__: I am looking for research interns in Huawei Noah's Ark Lab with strong machine learning and mathematical background. Please drop me an [email] (yimingyang2@huawei.com) if you are interested in machine learning theory, optimization, or generative model. Base: Beijing.
 
 Research Interests 
 ======
