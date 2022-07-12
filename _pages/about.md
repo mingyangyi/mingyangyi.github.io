@@ -62,7 +62,7 @@ Xufang Luo, __Mingyang Yi__, Yunhong Wang
 26th International Conference on Neural Information Processing (ICONIP 2019)
 
 [Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456)  
-__Mingyang Yi*__, Ruoyu Wang\*, Zhi-Ming Ma  
+__Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma  
 Preprint
 
 [Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)  
