@@ -11,9 +11,9 @@ title                    : "Mingyang Yi"
 title_separator          : "-"
 name                     : &name "Mingyang Yi"
 description              : &description "Researcher at Huawei Noah's Ark Lab"
-url                      : https://mingyangyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mingyangyi.github.io/mingyang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mingyangyi/mingyang"
+repository               : mingyangyi/mingyang
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
