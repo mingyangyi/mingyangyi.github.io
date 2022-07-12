@@ -82,8 +82,8 @@ yandex_site_verification :
 author:
   name             : "Mingyang Yi"
   avatar           : "ymy.png"
-  bio              : "yimingyang2@huawei2.com; yimingyang17@mails.ucas.edu.cn"
-  location         : "Location"
+  mails            : "yimingyang2@huawei2.com; yimingyang17@mails.ucas.edu.cn"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RlOZiPUAAAAJ&hl=en"
