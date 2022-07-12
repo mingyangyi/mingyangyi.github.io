@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyang Yi1"
+title                    : "Mingyang Yi"
 title_separator          : "-"
-name                     : &name "Mingyang Yi1"
+name                     : &name "Mingyang Yi"
 description              : &description "Researcher at Huawei Noah's Ark Lab"
 url                      : https://mingyangyi.github.io/mingyang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingyang Yi1"
+  name             : "Mingyang Yi"
   avatar           : "profile.png"
   bio              : "Researcher at Huawei Noah's Ark Lab"
   location         : "Location"
@@ -177,16 +177,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
