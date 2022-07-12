@@ -33,9 +33,7 @@ Publications
 ======
 "*" means equally contribution
 
-[Accelerating Training of Batch Normalization: A Manifold Perspective](https://arxiv.org/abs/2101.02916), 38th Uncertainty in Artificial Intelligence (UAI 2022). 
-
-__Mingyang Yi__
+[Accelerating Training of Batch Normalization: A Manifold Perspective](https://arxiv.org/abs/2101.02916), 38th Uncertainty in Artificial Intelligence (UAI 2022).  __Mingyang Yi__
 
 [Out-of-distribution Generalization with Causal Invariant Transformations](https://arxiv.org/abs/2203.11528), 40th Computer Vision and Pattern Recognition (CVPR 2022)
 
