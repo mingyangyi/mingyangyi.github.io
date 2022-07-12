@@ -33,59 +33,41 @@ Publications
 ======
 "*" means equally contribution
 
-[Accelerating Training of Batch Normalization: A Manifold Perspective](https://arxiv.org/abs/2101.02916) 
+[Accelerating Training of Batch Normalization: A Manifold Perspective](https://arxiv.org/abs/2101.02916), 38th Uncertainty in Artificial Intelligence (UAI 2022). 
 
 __Mingyang Yi__
 
-38th Uncertainty in Artificial Intelligence (UAI 2022)
-
-[Out-of-distribution Generalization with Causal Invariant Transformations](https://arxiv.org/abs/2203.11528)
+[Out-of-distribution Generalization with Causal Invariant Transformations](https://arxiv.org/abs/2203.11528), 40th Computer Vision and Pattern Recognition (CVPR 2022)
 
 Ruoyu Wang*, __Mingyang Yi*__, Zhitang Chen, Shengyu Zhu
 
-40th Computer Vision and Pattern Recognition (CVPR 2022)
-
-[Improved OOD Generalization via Adversarial Training and Pre-training](https://arxiv.org/abs/2105.11144)
+[Improved OOD Generalization via Adversarial Training and Pre-training](https://arxiv.org/abs/2105.11144), 38th International Conference on Machine Learning (ICML 2021)
 
 __Mingyang Yi__, Lu Hou, Jiacheng Sun, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma
 
-38th International Conference on Machine Learning (ICML 2021)
-
-[Reweighting Augmented Samples by Minimizing the Maximal Expected Loss](https://arxiv.org/abs/2103.08933)
+[Reweighting Augmented Samples by Minimizing the Maximal Expected Loss](https://arxiv.org/abs/2103.08933), 9th International Conference on Learning Representations (ICLR 2021)
 
 __Mingyang Yi__, Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma
 
-9th International Conference on Learning Representations (ICLR 2021)
-
-[BN-invariant Sharpness Regularizes the Training Model to Better Generalization](https://arxiv.org/pdf/2101.02944)
+[BN-invariant Sharpness Regularizes the Training Model to Better Generalization](https://arxiv.org/pdf/2101.02944), 29th International Joint Conference on Artificial Intelligence (IJCAI 2019)
 
 __Mingyang Yi__, Huishuai Zhang, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
 
-29th International Joint Conference on Artificial Intelligence (IJCAI 2019)
-
-[Stablize Deep ResNets with A Sharp Scaling \tau](https://arxiv.org/abs/1903.07120)
+[Stablize Deep ResNets with A Sharp Scaling \tau](https://arxiv.org/abs/1903.07120), Journal of Machine Learning
 
 Huishuai Zhang, Da Yu, __Mingyang Yi__, Wei Chen, Tie-Yan Liu
 
-Journal of Machine Learning
-
-[Improving Deep Learning by Regularized Scale-Free MSE of Representations](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_21)
+[Improving Deep Learning by Regularized Scale-Free MSE of Representations](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_21), 26th International Conference on Neural Information Processing (ICONIP 2019)
 
 Xufang Luo, __Mingyang Yi__, Yunhong Wang
 
-26th International Conference on Neural Information Processing (ICONIP 2019)
-
-[Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456)
+[Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456), Preprint
 
 __Mingyang Yi*__, Ruoyu Wang*, Zhi-Ming Ma
 
-Preprint
-
-[Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)
+[Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743), Preprint
 
 Weiran Huang*, __Mingyang Yi*__, Xuyang Zhao*
-
-Preprint
 
 Awards
 ====
