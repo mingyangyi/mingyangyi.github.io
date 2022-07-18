@@ -65,9 +65,14 @@ Xufang Luo, __Mingyang Yi__, Yunhong Wang
 __Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma  
 Preprint
 
+[Improved OOD Generalization via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)
+__Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma
+Preprint
+
 [Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)  
 Weiran Huang\*, __Mingyang Yi\*__, Xuyang Zhao\*  
 Preprint
+
 
 Awards
 ====
