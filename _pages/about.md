@@ -33,6 +33,10 @@ Publications
 ======
 "*" means equally contribution
 
+[Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456)  
+__Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma  
+36th Conference on Neural Information Processing Systems (NeurIPS 2022)
+
 [Accelerating Training of Batch Normalization: A Manifold Perspective](https://arxiv.org/abs/2101.02916)  
 __Mingyang Yi__  
 38th Uncertainty in Artificial Intelligence (UAI 2022).
@@ -61,10 +65,6 @@ Journal of Machine Learning
 Xufang Luo, __Mingyang Yi__, Yunhong Wang  
 26th International Conference on Neural Information Processing (ICONIP 2019)
 
-[Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456)  
-__Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma  
-Preprint
-
 [Improved OOD Generalization via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
 __Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
 Preprint
@@ -88,7 +88,7 @@ ZhuLiYueHua Scholarship of the Chinese Academy of Sciences, 2022
 Academic Services
 ======
 
-__Conference Reviewer__: ICML, ICLR, Neurips, AISTATS
+__Conference Reviewer__: ICML, ICLR, NeurIPS, AISTATS
 
 __Journal Reviewer__: IJCV, TNNLS
 
