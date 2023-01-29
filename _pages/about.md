@@ -33,6 +33,14 @@ Publications
 ======
 "*" means equally contribution
 
+[Breaking Correlation Shift via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
+__Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
+11th International Conference on Learning Representations (ICLR 2023)
+
+[Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)  
+Weiran Huang\*, __Mingyang Yi\*__, Xuyang Zhao\*, Zihao Jiang  
+11th International Conference on Learning Representations (ICLR 2023)
+
 [Characterization of Excess Risk for Locally Strongly Convex Population Risk](https://arxiv.org/abs/2012.02456)  
 __Mingyang Yi__\*, Ruoyu Wang\*, Zhi-Ming Ma  
 36th Conference on Neural Information Processing Systems (NeurIPS 2022)
@@ -64,15 +72,6 @@ Journal of Machine Learning
 [Improving Deep Learning by Regularized Scale-Free MSE of Representations](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_21)  
 Xufang Luo, __Mingyang Yi__, Yunhong Wang  
 26th International Conference on Neural Information Processing (ICONIP 2019)
-
-[Improved OOD Generalization via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
-__Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
-Preprint
-
-[Towards the Generalization of Contrastive Self-supervised Learning](https://arxiv.org/abs/2111.00743)  
-Weiran Huang\*, __Mingyang Yi\*__, Xuyang Zhao\*  
-Preprint
-
 
 Awards
 ====
