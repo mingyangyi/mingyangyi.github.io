@@ -33,9 +33,9 @@ Publications
 ======
 "*" means equally contribution
 
-[On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)
-__Mingyang Yi__, Jiacheng Sun, Zhenguo Li
-Preprint
+[On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)  
+__Mingyang Yi__, Jiacheng Sun, Zhenguo Li  
+Preprint  
 
 [Breaking Correlation Shift via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
 __Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
