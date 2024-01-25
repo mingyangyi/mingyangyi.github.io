@@ -96,6 +96,8 @@ Chinese National Scholarship, 2021
 
 ZhuLiYueHua Scholarship of the Chinese Academy of Sciences, 2022
 
+__Outstanding PhD Thesis of the Chinese Academy of Sciences, 2023__
+
 Academic Services
 ======
 
