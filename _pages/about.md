@@ -31,11 +31,19 @@ Working Experience
 
 Publications
 ======
-"*" means equally contribution
+"*" means equally contribution, "†" means corresponding author
+
+[Towards Understanding the Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)
+__Mingyang Yi__, Bohan Wang
+Preprint
 
 [On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)  
 __Mingyang Yi__, Jiacheng Sun, Zhenguo Li  
 Preprint  
+
+[SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2309.05019.pdf)
+Shuchen Xue, __Mingyang Yi__\†, Weijian Luo, Shifeng Zhang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma
+37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 [Breaking Correlation Shift via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
 __Mingyang Yi__, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
