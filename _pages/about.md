@@ -33,7 +33,7 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
-[Towards Understanding the Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
+[Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
 __Mingyang Yi__, Bohan Wang  
 Preprint
 
