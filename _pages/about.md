@@ -42,7 +42,7 @@ __Mingyang Yi__, Jiacheng Sun, Zhenguo Li
 Preprint  
 
 [SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2309.05019.pdf)  
-Shuchen Xue, __Mingyang Yi__\†, Weijian Luo, Shifeng Zhang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma 
+Shuchen Xue, __Mingyang Yi__†, Weijian Luo, Shifeng Zhang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma 
 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 [Breaking Correlation Shift via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
