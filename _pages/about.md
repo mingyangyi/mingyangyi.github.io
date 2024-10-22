@@ -20,7 +20,7 @@ Statistical Learning
 
 Understanding of Larage Models 
 
-Working Experience & Study Experience
+Working Experience
 ======
 
 2022.7-2024.10 Researcher, AI Theory Group of Huawei Noah's Ark Lab
@@ -31,6 +31,9 @@ Working Experience & Study Experience
 
 2020.4-2021.2 Research Intern, Speech & Language Processing Group of Huawei Noah's Ark Lab, supervisor [Lu Hou](https://houlu369.github.io/)
 
+Study Experience
+======
+
 2017.9-2022.6 PhD, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Major in Probability Theory and Mathematical Statistics, supervisor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html) 
 
 2013.9-2017.6 Bachelor, School of Math and Statistics, Major in Math
@@ -39,11 +42,11 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
-[Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.15330)
+[Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.15330)  
 __Mingyang Yi__\*†, Aoxue Li\*, Yi Xin\*, Zhenguo Li
 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
-[V-PETL Bench: A Unified Visual Parameter-Efficient Transfer Learning Benchmark](https://arxiv.org/abs/2405.15330)
+[V-PETL Bench: A Unified Visual Parameter-Efficient Transfer Learning Benchmark](https://arxiv.org/abs/2405.15330)  
 Yi Xin\*, Siqi Luo\*, Xuyang Liu\*, Haodi Zhou, Xinyu Cheng, Christina Luoluo Lee, Junlong Du, Yuntao Du., Haozhe Wang, MingCai Chen, Ting Liu, Guimin Hu, Zhongwei Wan, Rongchao Zhang, Aoxue Li, __Mingyang Yi__, Xiaohong Liu 
 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
