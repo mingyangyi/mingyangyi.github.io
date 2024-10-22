@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mingyang Yi"
 title_separator          : "-"
 name                     : &name "Mingyang Yi"
-description              : &description "Researcher at Huawei Noah's Ark Lab"
+description              : &description "Assistant Professor of Renmin University of China"
 url                      : https://mingyangyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : mingyangyi.github.io
