@@ -23,6 +23,8 @@ Understanding of Larage Models
 Working Experience
 ======
 
+2024.10-Now Assistant Professor of School of Information, Renmin University of China
+
 2022.7-2024.10 Researcher, AI Theory Group of Huawei Noah's Ark Lab
 
 2021.2-2022.5 Research Intern, AI Theory Group of Huawei Noah's Ark Lab, supervisor [Zhenguo Li](https://www.ee.columbia.edu/~zgli/)
