@@ -49,11 +49,11 @@ __Mingyang Yi__\*†, Aoxue Li\*, Yi Xin\*, Zhenguo Li
 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 [V-PETL Bench: A Unified Visual Parameter-Efficient Transfer Learning Benchmark](https://arxiv.org/abs/2405.15330)  
-Yi Xin\*, Siqi Luo\*, Xuyang Liu\*, Haodi Zhou, Xinyu Cheng, Christina Luoluo Lee, Junlong Du, Yuntao Du., Haozhe Wang, MingCai Chen, Ting Liu, Guimin Hu, Zhongwei Wan, Rongchao Zhang, Aoxue Li, __Mingyang Yi__, Xiaohong Liu 
+Yi Xin\*, Siqi Luo\*, Xuyang Liu\*, Haodi Zhou, Xinyu Cheng, Christina Luoluo Lee, Junlong Du, Yuntao Du., Haozhe Wang, MingCai Chen, Ting Liu, Guimin Hu, Zhongwei Wan, Rongchao Zhang, Aoxue Li, __Mingyang Yi__, Xiaohong Liu  
 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 [SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models](https://arxiv.org/pdf/2309.05019.pdf)  
-Shuchen Xue, __Mingyang Yi__†, Weijian Luo, Shifeng Zhang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma 
+Shuchen Xue, __Mingyang Yi__†, Weijian Luo, Shifeng Zhang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma  
 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 [Breaking Correlation Shift via Conditional Invariant Regularizer](https://arxiv.org/abs/2207.06687)  
@@ -99,8 +99,12 @@ Xufang Luo, __Mingyang Yi__, Yunhong Wang
 Preprints
 ======
 
-[Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion](https://arxiv.org/abs/2405.15313)
-__Mingyang Yi__\*, Aoxue Li\*, Zhenguo Li
+[Denoising Data with Measurement Error Using a Reproducing Kernel-based Diffusion Model](https://arxiv.org/pdf/2501.00212)  
+__Mingyang Yi__,  Marcos Matabuena, Ruoyu Wang  
+Preprint
+
+[Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion](https://arxiv.org/abs/2405.15313)  
+Aoxue Li\*, __Mingyang Yi__\*†, Zhenguo Li  
 Preprint
 
 [Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
