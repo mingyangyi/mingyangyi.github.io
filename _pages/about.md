@@ -44,8 +44,12 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
+[Improved Diffusion-based Generative Model with Better Adversarial Robustness](https://arxiv.org/pdf/2502.17099)  
+Zekun Wang*, __Mingyang Yi__\*†, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma  
+13th International Conference on Learning Representations (ICLR 2025)  
+
 [Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model](https://arxiv.org/abs/2405.15330)  
-__Mingyang Yi__\*†, Aoxue Li\*, Yi Xin\*, Zhenguo Li
+__Mingyang Yi__\*†, Aoxue Li\*, Yi Xin\*, Zhenguo Li  
 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 [V-PETL Bench: A Unified Visual Parameter-Efficient Transfer Learning Benchmark](https://arxiv.org/abs/2405.15330)  
@@ -115,6 +119,9 @@ Preprint
 __Mingyang Yi__, Jiacheng Sun, Zhenguo Li  
 Preprint 
 
+[Reveal the Mystery of DPO: The Connection between DPO and RL Algorithms](https://arxiv.org/abs/2502.03095)  
+Xuerui Su, Yue Wang, Jinhua Zhu, __Mingyang Yi__, Feng Xu, Zhiming Ma, Yuting Liu  
+Preprint  
 
 Awards
 ====
