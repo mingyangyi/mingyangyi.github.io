@@ -29,9 +29,9 @@ Working Experience
 
 2021.2-2022.5 Research Intern, AI Theory Group of Huawei Noah's Ark Lab, supervisor [Zhenguo Li](https://www.ee.columbia.edu/~zgli/)
 
-2018.9-2020.3 Research Intern, Machine Learning Group of Microsoft Research Asia, supervisor [Wei Chen](https://weichen-cas.github.io/)
-
 2020.4-2021.2 Research Intern, Speech & Language Processing Group of Huawei Noah's Ark Lab, supervisor [Lu Hou](https://houlu369.github.io/)
+
+2018.9-2020.3 Research Intern, Machine Learning Group of Microsoft Research Asia, supervisor [Wei Chen](https://weichen-cas.github.io/)
 
 Study Experience
 ======
