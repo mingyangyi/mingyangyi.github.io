@@ -44,6 +44,22 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
+[Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
+__Mingyang Yi__, Bohan Wang  
+39th Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+[TANDEM: Bi-Level Data Mixture Optimization with Twin Networks]  
+Jiaxing Wang, Deping Xiang, Jin Xu, __Mingyang Yi__†, Guoqiang Gong, Zicheng Zhang, Haoran Li, pengzhang liu, Zhen Chen, Ke Zhang, Ju Fan, Qixia Jiang  
+39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
+
+[Stability and Sharper Risk Bounds with Convergence Rate $\tilde{O}(1/n^2)$]  
+Bowei Zhu, Shaojie Li, __Mingyang Yi__, Yong Liu  
+39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
+
+[TR-PTS: Task-Relevant Parameter and Token Selection for Efficient Tuning](https://arxiv.org/abs/2507.22872)  
+Siqi Luo, Haoran Yang, Yi Xin, __Mingyang Yi__, Guangyang Wu, Guangtao Zhai, Xiaohong Liu  
+38th International Conference on Computer Vision (ICCV 2025)  
+
 [Improved Diffusion-based Generative Model with Better Adversarial Robustness](https://arxiv.org/pdf/2502.17099)  
 Zekun Wang*, __Mingyang Yi__\*†, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma  
 13th International Conference on Learning Representations (ICLR 2025)  
@@ -111,17 +127,17 @@ Preprint
 Aoxue Li\*, __Mingyang Yi__\*†, Zhenguo Li  
 Preprint
 
-[Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
-__Mingyang Yi__, Bohan Wang  
-Preprint
-
 [On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)  
 __Mingyang Yi__, Jiacheng Sun, Zhenguo Li  
 Preprint 
 
 [Reveal the Mystery of DPO: The Connection between DPO and RL Algorithms](https://arxiv.org/abs/2502.03095)  
 Xuerui Su, Yue Wang, Jinhua Zhu, __Mingyang Yi__, Feng Xu, Zhiming Ma, Yuting Liu  
-Preprint  
+Preprint 
+
+[Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)  
+Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
+Preprint 
 
 Awards
 ====
