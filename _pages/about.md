@@ -53,7 +53,7 @@ Jiaxing Wang, Deping Xiang, Jin Xu, __Mingyang Yi__†, Guoqiang Gong, Zicheng Z
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
 [Stability and Sharper Risk Bounds with Convergence Rate $\tilde{O}(1/n^2)$]  
-Bowei Zhu, Shaojie Li, __Mingyang Yi__, Yong Liu  
+Bowei Zhu, Shaojie Li†, __Mingyang Yi__†, Yong Liu  
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
 [TR-PTS: Task-Relevant Parameter and Token Selection for Efficient Tuning](https://arxiv.org/abs/2507.22872)  
