@@ -48,11 +48,11 @@ Publications
 __Mingyang Yi__, Bohan Wang  
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)
 
-[TANDEM: Bi-Level Data Mixture Optimization with Twin Networks]  
+[TANDEM: Bi-Level Data Mixture Optimization with Twin Networks](https://openreview.net/pdf?id=szBFUtBzWP)  
 Jiaxing Wang, Deping Xiang, Jin Xu, __Mingyang Yi__†, Guoqiang Gong, Zicheng Zhang, Haoran Li, pengzhang liu, Zhen Chen, Ke Zhang, Ju Fan, Qixia Jiang  
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
-[Stability and Sharper Risk Bounds with Convergence Rate $\tilde{O}(1/n^2)$]  
+[Stability and Sharper Risk Bounds with Convergence Rate $\tilde{O}(1/n^2)$](https://openreview.net/pdf?id=dCcWKeO4y4)  
 Bowei Zhu, Shaojie Li†, __Mingyang Yi__†, Yong Liu  
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
