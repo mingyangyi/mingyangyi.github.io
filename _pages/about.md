@@ -139,7 +139,18 @@ Preprint
 Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
 Preprint 
 
-Awards
+[ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
+Xiuyu Li, Jinkai Zhang, __Mingyang Yi__†, Yu Li, Longqiang Wang, Yue Wang, Ju Fan  
+Preprint
+
+[Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning](https://arxiv.org/abs/2602.00994)  
+Yu Li, __Mingyang Yi__†, Xiuyu Li, Ju Fan, Fuxin Jiang, Binbin Chen, Peng Li, Jie Song, Tieying Zhang  
+Preprint
+
+[Towards a Theoretical Understanding to the Generalization of RLHF](https://arxiv.org/abs/2601.16403)  
+Zhaochun Li, __Mingyang Yi__†, Yue Wang, Shisheng Cui, Yong Liu  
+Preprint
+
 ====
 
 AMSS Presidential Scholarship, 2019
