@@ -44,6 +44,10 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
+[Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)  
+Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
+Special Interest Group on Management of Data (SIGMOD 2026)
+
 [Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
 __Mingyang Yi__, Bohan Wang  
 39th Conference on Neural Information Processing Systems (NeurIPS 2025)
@@ -133,10 +137,6 @@ Preprint
 
 [Reveal the Mystery of DPO: The Connection between DPO and RL Algorithms](https://arxiv.org/abs/2502.03095)  
 Xuerui Su, Yue Wang, Jinhua Zhu, __Mingyang Yi__, Feng Xu, Zhiming Ma, Yuting Liu  
-Preprint 
-
-[Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)  
-Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
 Preprint 
 
 [ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
