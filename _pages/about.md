@@ -44,6 +44,10 @@ Publications
 ======
 "*" means equally contribution, "†" means corresponding author
 
+[ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
+Xiuyu Li, Jinkai Zhang, __Mingyang Yi__†, Yu Li, Longqiang Wang, Yue Wang, Ju Fan  
+43th International Conference on Machine Learning (ICML 2026)
+
 [Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)  
 Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
 Special Interest Group on Management of Data (SIGMOD 2026)
@@ -138,10 +142,6 @@ Preprint
 [Reveal the Mystery of DPO: The Connection between DPO and RL Algorithms](https://arxiv.org/abs/2502.03095)  
 Xuerui Su, Yue Wang, Jinhua Zhu, __Mingyang Yi__, Feng Xu, Zhiming Ma, Yuting Liu  
 Preprint 
-
-[ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
-Xiuyu Li, Jinkai Zhang, __Mingyang Yi__†, Yu Li, Longqiang Wang, Yue Wang, Ju Fan  
-Preprint
 
 [Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning](https://arxiv.org/abs/2602.00994)  
 Yu Li, __Mingyang Yi__†, Xiuyu Li, Ju Fan, Fuxin Jiang, Binbin Chen, Peng Li, Jie Song, Tieying Zhang  
