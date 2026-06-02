@@ -43,6 +43,7 @@ Study Experience
 Publications
 ======
 "*" means equally contribution, "†" means corresponding author
+
 [Black-Box Embedding Inversion Attack on Vector Databases]
 Lichao Sun, Yuncheng Wu, Haichao Sha, Xinjian Luo, __Mingyang Yi__, Meihui Zhang, Cuiping Li, Hong Chen
 32nd Conference on Knowledge Discovery and Data Mining (KDD 2026)
