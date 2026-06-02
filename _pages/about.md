@@ -14,11 +14,11 @@ __Hiring__: I am looking for MS/Phd/Interns with strong machine learning and mat
 
 Research Interests 
 ======
+RL for LLM
+
 Optimization Theory
 
 Statistical Learning
-
-Understanding of Larage Models 
 
 Working Experience
 ======
@@ -43,13 +43,16 @@ Study Experience
 Publications
 ======
 "*" means equally contribution, "†" means corresponding author
+[Black-Box Embedding Inversion Attack on Vector Databases]
+Lichao Sun, Yuncheng Wu, Haichao Sha, Xinjian Luo, __Mingyang Yi__, Meihui Zhang, Cuiping Li, Hong Chen
+32nd Conference on Knowledge Discovery and Data Mining (KDD 2026)
 
 [ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
 Xiuyu Li, Jinkai Zhang, __Mingyang Yi__†, Yu Li, Longqiang Wang, Yue Wang, Ju Fan  
 43th International Conference on Machine Learning (ICML 2026)
 
 [Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)  
-Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__†, Yuyu Luo, Jian Tan, Guoliang Li  
+Yuxin Zhang, Meihao Fan, Ju Fan†, __Mingyang Yi__, Yuyu Luo, Jian Tan, Guoliang Li  
 Special Interest Group on Management of Data (SIGMOD 2026)
 
 [Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530)  
@@ -149,6 +152,18 @@ Preprint
 
 [Towards a Theoretical Understanding to the Generalization of RLHF](https://arxiv.org/abs/2601.16403)  
 Zhaochun Li, __Mingyang Yi__†, Yue Wang, Shisheng Cui, Yong Liu  
+Preprint
+
+[Fragile Reconstruction: Adversarial Vulnerability of Reconstruction-Based Detectors for Diffusion-Generated Images](https://arxiv.org/abs/2604.12781)
+Haoyang Jiang, __Mingyang Yi†__, Junxian Cai, Qingbin Liu, Xi Chen
+Preprint
+
+[OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner](https://arxiv.org/abs/2604.12668)
+Haoyang Jiang, Zekun Wang, __Mingyang Yi†__, Xiuyu Li, Lanqing Hu, Junxian Cai, Qingbin Liu, Xi Chen, Ju Fan
+Preprint
+
+[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/html/2605.29734v1)
+Yining Zhang, __Mingyang Yi†__, Chen Wang, Xuwen Xiang, Tianhe Jia, Zedong Dan, Chengqing Zong, Yue Wang
 Preprint
 
 ====
