@@ -45,7 +45,7 @@ Publications
 "*" means equally contribution, "†" means corresponding author
 
 [Black-Box Embedding Inversion Attack on Vector Databases]
-Lichao Sun, Yuncheng Wu, Haichao Sha, Xinjian Luo, __Mingyang Yi__, Meihui Zhang, Cuiping Li, Hong Chen
+Lichao Sun, Yuncheng Wu, Haichao Sha, Xinjian Luo, __Mingyang Yi__, Meihui Zhang, Cuiping Li, Hong Chen  
 32nd Conference on Knowledge Discovery and Data Mining (KDD 2026)
 
 [ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/pdf/2601.21484)  
@@ -155,15 +155,15 @@ Preprint
 Zhaochun Li, __Mingyang Yi__†, Yue Wang, Shisheng Cui, Yong Liu  
 Preprint
 
-[Fragile Reconstruction: Adversarial Vulnerability of Reconstruction-Based Detectors for Diffusion-Generated Images](https://arxiv.org/abs/2604.12781)
+[Fragile Reconstruction: Adversarial Vulnerability of Reconstruction-Based Detectors for Diffusion-Generated Images](https://arxiv.org/abs/2604.12781)  
 Haoyang Jiang, __Mingyang Yi†__, Junxian Cai, Qingbin Liu, Xi Chen
 Preprint
 
-[OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner](https://arxiv.org/abs/2604.12668)
+[OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner](https://arxiv.org/abs/2604.12668)  
 Haoyang Jiang, Zekun Wang, __Mingyang Yi†__, Xiuyu Li, Lanqing Hu, Junxian Cai, Qingbin Liu, Xi Chen, Ju Fan
 Preprint
 
-[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/html/2605.29734v1)
+[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/html/2605.29734v1)  
 Yining Zhang, __Mingyang Yi†__, Chen Wang, Xuwen Xiang, Tianhe Jia, Zedong Dan, Chengqing Zong, Yue Wang
 Preprint
 
