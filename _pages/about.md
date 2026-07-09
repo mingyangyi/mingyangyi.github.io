@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of the School of Information, Renmin University of China. Currently, I am working closely with Professor [Ju Fan](http://iir.ruc.edu.cn/~fanj/). Before joining Renmin University of China, I am a researcher at AI Theory Group of Huawei Noah's Ark Lab. I obtained my Ph.D. degree in Probability and Mathematical Statistics from Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2022, under the supervision of Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). Before that, I received my Bachelor's Degree in Math from Central China Normal University in 2017.
+I am an Assistant Professor of the School of Information, Renmin University of China. Before joining Renmin University of China, I am a researcher at AI Theory Group of Huawei Noah's Ark Lab. I obtained my Ph.D. degree in Probability and Mathematical Statistics from Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2022, under the supervision of Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). Before that, I received my Bachelor's Degree in Math from Central China Normal University in 2017.
 
 __Hiring__: I am looking for MS/Phd/Interns with strong machine learning and mathematical background in School of Information, Renmin University of China. Please drop me an [email](yimingyang@ruc.edu.cn) if you are interested in machine learning theory, optimization, or generative model. 
 
@@ -165,6 +165,10 @@ Preprint
 
 [HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/html/2605.29734v1)  
 Yining Zhang, __Mingyang Yi†__, Chen Wang, Xuwen Xiang, Tianhe Jia, Zedong Dan, Chengqing Zong, Yue Wang  
+Preprint
+
+[Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment](https://arxiv.org/abs/2607.04728)  
+Yu Li, Xiuyu Li, __Mingyang Yi†__, Jiaxing Wang, Liangxu Zhang, Zhaolong Xing, Zhen Chen  
 Preprint
 
 ====
